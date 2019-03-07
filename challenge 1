@@ -11,7 +11,6 @@ Input:"I love dogs"
 Output:"love"
 
 // solution
-
 function LongestWord(sen) { 
 
   // code goes here  
@@ -36,4 +35,4 @@ function LongestWord(sen) {
 }
    
 // keep this function call here 
-LongestWord(readline());  
+LongestWord(readline()); 
